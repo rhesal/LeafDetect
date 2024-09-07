@@ -1,0 +1,45 @@
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\bin\Debug\LeafDetect.exe
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\bin\Debug\LeafDetect.pdb
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Properties.Resources.resources
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.exe
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.pdb
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.MainMenu.resources
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Login.resources
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csproj.ResolveComReference.cache
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Training.resources
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Testing.resources
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.FormInfo.resources
+D:\Kuliah\Semester 5\Enterprise\Project\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Login2.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csproj.ResolveComReference.cache
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.exe
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.pdb
+F:\FIX\LeafDetect\LeafDetect\bin\Debug\LeafDetect.exe
+F:\FIX\LeafDetect\LeafDetect\bin\Debug\LeafDetect.pdb
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csprojResolveAssemblyReference.cache
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.FormInfo.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Login.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Login2.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.MainMenu.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Properties.Resources.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Testing.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Training.resources
+F:\FIX\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.exe
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.pdb
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\bin\Debug\LeafDetect.exe
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\bin\Debug\LeafDetect.pdb
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.FormInfo.resources
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Login.resources
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Login2.resources
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.MainMenu.resources
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Testing.resources
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.Training.resources
+C:\Users\Lenovo\Downloads\Compressed\Last\Aplikasi\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csproj.GenerateResource.Cache
+D:\CD\APLIKASI\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.csproj.ResolveComReference.cache
+D:\CD\APLIKASI\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.exe
+D:\CD\APLIKASI\LeafDetect\LeafDetect\obj\x86\Debug\LeafDetect.pdb
